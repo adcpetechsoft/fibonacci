@@ -1,6 +1,6 @@
 /*
 
-Fibonacci
+Fibonachi
 
 Code created as an answer to https://code.golf/fibonacci
 C/C++ Version
