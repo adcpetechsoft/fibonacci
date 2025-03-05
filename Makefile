@@ -1,5 +1,5 @@
 fibonacci:
-	echo Fibonachi Application
+	echo Fibonacci Application
 	g++ ./fibonacci.cpp -o fibonacci
 
 clean: 
