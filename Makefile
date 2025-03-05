@@ -1,7 +1,7 @@
-a:
+fibonacci:
 	echo Fibonachi Application
-	g++ ./a.cpp -o a
+	g++ ./fibonacci.cpp -o fibonacci
 
 clean: 
-	rm ./a
+	rm ./fibonacci
 
